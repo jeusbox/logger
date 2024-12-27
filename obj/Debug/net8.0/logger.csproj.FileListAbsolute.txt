@@ -1,0 +1,14 @@
+/Users/aaronahmadi/csharp/logger/bin/Debug/net8.0/logger
+/Users/aaronahmadi/csharp/logger/bin/Debug/net8.0/logger.deps.json
+/Users/aaronahmadi/csharp/logger/bin/Debug/net8.0/logger.runtimeconfig.json
+/Users/aaronahmadi/csharp/logger/bin/Debug/net8.0/logger.dll
+/Users/aaronahmadi/csharp/logger/bin/Debug/net8.0/logger.pdb
+/Users/aaronahmadi/csharp/logger/obj/Debug/net8.0/logger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaronahmadi/csharp/logger/obj/Debug/net8.0/logger.AssemblyInfoInputs.cache
+/Users/aaronahmadi/csharp/logger/obj/Debug/net8.0/logger.AssemblyInfo.cs
+/Users/aaronahmadi/csharp/logger/obj/Debug/net8.0/logger.csproj.CoreCompileInputs.cache
+/Users/aaronahmadi/csharp/logger/obj/Debug/net8.0/logger.dll
+/Users/aaronahmadi/csharp/logger/obj/Debug/net8.0/refint/logger.dll
+/Users/aaronahmadi/csharp/logger/obj/Debug/net8.0/logger.pdb
+/Users/aaronahmadi/csharp/logger/obj/Debug/net8.0/logger.genruntimeconfig.cache
+/Users/aaronahmadi/csharp/logger/obj/Debug/net8.0/ref/logger.dll
