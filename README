@@ -1,1 +1,5 @@
-### readme
+## readme
+
+1. Move to the `logger` directory
+2. Run `dotnet run`
+3. GLHF
